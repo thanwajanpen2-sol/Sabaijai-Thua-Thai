@@ -1,0 +1,10 @@
+{
+  "name": "Sabaijai Thua Thai",
+  "description": "เว็บแอป AI สำหรับวิเคราะห์และแปลภาษาถิ่นไทยจากเสียงพูดและข้อความ พร้อมอธิบายบริบท วัฒนธรรม และพจนานุกรม 4 ภาค (ฟังภาษาถิ่น เข้าใจทุกสำเนียง)",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
